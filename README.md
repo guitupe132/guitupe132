@@ -3,5 +3,5 @@
 
 - 🌱 I’m currently learning HTML, CSS, Javascript
 - 🤔 I’m looking for help with Javascript
-- 🧑 My age: 19 Years
+- 🧑 My age: 20 Years
 - 😄 Pronouns: He / Him
